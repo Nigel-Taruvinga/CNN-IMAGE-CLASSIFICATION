@@ -1,0 +1,9 @@
+*.keras
+*.h5
+*.pth
+*.bin
+*.safetensors
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
